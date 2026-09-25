@@ -16,3 +16,19 @@ ONE Church — Our New Era — is the Living Body that practices it today throug
 
 ## Lineage
 Pre-Diluvian (>12kya Younger Dryas) → Early Iran → Zoroastrian renaming (~5kya+) → Cyrus liberation of Israelites (538 BCE) → Essene Way → Yeshua ben Yosef First Assembly → ONE Church today
+
+---
+
+## Collar
+
+See [WHAT-THIS-IS-NOT.md](WHAT-THIS-IS-NOT.md) and [HASEOS-RELATION.md](HASEOS-RELATION.md). Status: [STATUS.md](STATUS.md).
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noahnemo-rgb/ONE-Multiverse/main/brand/one-gold-mark.png" width="120" alt="ONE">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noahnemo-rgb/ONE-Multiverse/main/brand/haseos-trust-seal-gold-blue.svg" width="200" alt="HASEOS Trust">
+</p>
+
+Brand shelf is canonical on ONE-Multiverse. This repo does not fork the rasters.

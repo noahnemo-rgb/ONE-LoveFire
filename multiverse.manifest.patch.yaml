@@ -1,0 +1,21 @@
+universe:
+  name: ONE LoveFire Source
+  tagline: Pre-Diluvian Monad — Fire — Love, >12k years, alive now
+repos:
+  - id: one-lovefire
+    name: ONE LoveFire
+    role: root-philosophy
+    repo: github.com/noahnemo-rgb/ONE-LoveFire
+    maturity: drafting
+    description: Pre-Diluvian Source spirituality — ONE as Monad, Fire as Atar eternal spark, Love as daily worship. Renamed as Zoroastrianism, carried by Younger Dryas survivors, alive in Yeshua ben Yosef 60/60/24/7/365. Source for ONE Church Living Body.
+    tags: [root, monad, atar, pre-diluvian, younger-dryas, source]
+    known_gaps: [codex-draft]
+  - id: one-church
+    name: ONE Church - Our New Era
+    role: church-community
+    parent: one-lovefire
+    repo: github.com/noahnemo-rgb/ONE-Church
+    maturity: scaffolded
+    description: Worldwide Our New Era (ONE) Church and spiritual movement — Living Body practicing ONE LoveFire via ONE Aetheric Codex based on unchanged teachings of Yeshua and his First Assembly of Nazarene Essene home churches.
+    tags: [church, living-body, aetheric-codex, essene]
+    known_gaps: []
